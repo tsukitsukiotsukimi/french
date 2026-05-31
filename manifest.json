@@ -1,0 +1,53 @@
+[
+  {
+    "key": "textbook",
+    "title": "実践フランス語教科書 — 話すためだけの最短ルート",
+    "source_uploaded_name": "french_textbook(1).md",
+    "copied_as": "source_markdown/french_textbook.md",
+    "sha256": "24d960ea575b5f6c18cf9a0a0589eb1a3c02bbb71f887f405f287a5f0ea06c32",
+    "characters": 31273,
+    "stats": {
+      "h1": 1,
+      "h2": 13,
+      "h3": 57,
+      "code_blocks": 12,
+      "tables": 602,
+      "fr_tokens": 370,
+      "chars": 31273
+    }
+  },
+  {
+    "key": "dialogues",
+    "title": "暗記用フランス語日常会話100セット",
+    "source_uploaded_name": "french_100_dialogues(1).md",
+    "copied_as": "source_markdown/french_100_dialogues.md",
+    "sha256": "fe6b3e9efebd51815b8fa7a3c06c08f18e1429e61dd97bf99d627a5540773e5d",
+    "characters": 29229,
+    "stats": {
+      "h1": 1,
+      "h2": 11,
+      "h3": 100,
+      "code_blocks": 100,
+      "tables": 6,
+      "fr_tokens": 355,
+      "chars": 29229
+    }
+  },
+  {
+    "key": "exercises",
+    "title": "フランス語実践問題集 — 600題（解答付き）",
+    "source_uploaded_name": "french_600_exercises(1).md",
+    "copied_as": "source_markdown/french_600_exercises.md",
+    "sha256": "bc0daecacaf2e6cc03eb977a4e21a642bf422bd6777f52aa47d32cf556842acd",
+    "characters": 51228,
+    "stats": {
+      "h1": 12,
+      "h2": 110,
+      "h3": 10,
+      "code_blocks": 11,
+      "tables": 70,
+      "fr_tokens": 679,
+      "chars": 51228
+    }
+  }
+]
